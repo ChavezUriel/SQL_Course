@@ -1,0 +1,3 @@
+The final exercise of the course was to create a web app using what we learned on node.js and the basics on web pace structuration (HTML and CSS).
+The HTML scripts are read by node.js via EJS which is a simple templating language that lets you generate HTML markup with plain JavaScript
+The created web page has a home page where emails are asked for a registration, the emails entered are stored in a database in which fake email data was inserted before. After entering an email, it redirects to a "Thanks" page where you can chose to return to the home page or acces to the "More about" page.
